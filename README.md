@@ -44,5 +44,5 @@ CRUD_PHP/
 ## Autor
 [Angel Castilla] - [angelgabrielcastillasandoval4@gmail.com]
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo libremente.
+Este proyecto puedes usarlo y modificarlo libremente.
 
